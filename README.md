@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nzube-ctrl
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Html,Css and Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m currently learning software development at Altschool africa.
+- 🌱 I’m currently learning Html,Css and Javascript & Python
 - 📫 How to reach me nzubeuwakwe@gmail.com
 
 <!---
